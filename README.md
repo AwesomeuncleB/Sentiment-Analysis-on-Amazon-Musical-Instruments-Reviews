@@ -1,4 +1,4 @@
-# Sentiment-Analysis-on-Amazon-Musical-Instruments-Reviews
+# Exploring Cairo with IoT 
 
 
 This is a project containing **Sentiment Analysis**  on *Amazon Musical Instruments Reviews*. The main motivation that got me to embark on this project is to have different projects on my portfolio. I also think that sentiment analysis plays a really powerful impact in business development because we can gain so many insights from here.
